@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/gokulkulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gokulkulkarni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gokul-kulkarni-1b50aa19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokul-kulkarni-1b50aa19" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/1992811/gokul-kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/1992811/gokul-kulkarni" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/1992811/gokul-kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1992811/gokul-kulkarni" height="30" width="40" /></a>
 <a href="https://instagram.com/gokul.kulkarni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokul.kulkarni" height="30" width="40" /></a>
 </p>
 
